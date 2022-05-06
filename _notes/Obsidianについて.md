@@ -5,7 +5,6 @@ aliases:
 tags: Publish/MOC
 publish: true
 ---
-# 💎 Obsidianについて
 Back to [[ZAWAO's Garden]]
 
 

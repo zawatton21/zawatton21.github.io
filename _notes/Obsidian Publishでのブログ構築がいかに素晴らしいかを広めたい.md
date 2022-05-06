@@ -4,7 +4,7 @@ uid: 20211010110308
 title: Obsidian Publishでのブログ構築がいかに素晴らしいかを広めたい
 aliases:
 date: 2021-10-10
-tags: Obsidian/Notes, Thought, idea
+tags: obsidian/notes, Thought, idea
 category:
 review: 0
 publish: true

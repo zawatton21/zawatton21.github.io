@@ -2,14 +2,13 @@
 title: "Obsidianとlogseqの比較"
 uid: 20211031222650
 title: ObsidianとLogseqの比較
-aliases:
+aliases: ObsidianとLogseqの比較
 date: 2021-11-04  22:26:50
 tags: Logseq, Obsidian, idea
 category:
 review: 0
 publish: true
 ---
-# ObsidianとLogseqの比較
 Back to [[Archive of Articles]]
 
 - [[Obsidian]]の強み
